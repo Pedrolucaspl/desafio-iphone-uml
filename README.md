@@ -1,8 +1,4 @@
----
-config:
-  layout: dagre
-id: b13ef077-f541-402e-8d52-966374ec3918
----
+```mermaid
 classDiagram
     direction TB
     class ReprodutorMusical {
